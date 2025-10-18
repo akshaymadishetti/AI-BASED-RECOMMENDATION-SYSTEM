@@ -65,4 +65,4 @@ userID,itemID,preference
 
 
 OUTPUT
-
+<img width="745" height="433" alt="Image" src="https://github.com/user-attachments/assets/aaad480d-5f83-40c3-b332-ab1cff0e7cca" />
